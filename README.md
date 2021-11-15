@@ -7,6 +7,7 @@
 3. Run `pipenv install`
 4. Finally, run `python bot.py`
 
+Open your telegram and follow the following steps to report an event. 
 ## Steps to run report on Telegram
 1. Search `@Indra_ReporterBot` 
 2. Type `/start` in the chat area to activate the bot. 
