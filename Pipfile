@@ -8,6 +8,7 @@ python-telegram-bot = "*"
 pytelegrambotapi = "*"
 requests = "*"
 python-dotenv = "*"
+flask = "*"
 
 [dev-packages]
 
