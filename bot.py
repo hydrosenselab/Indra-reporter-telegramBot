@@ -18,8 +18,8 @@ post_request_data ={}
 
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
-    bot.send_message(message.chat.id, """Hello! Welcome to INDRA Reporting Bot.\nThis bot helps report natural events happening around you! 🌧️ ⛈️ ⚡""")
-    bot.send_message(message.chat.id, """To report a disaster near you, type in /report to start the process""")
+    bot.send_message(message.chat.id, """Hello! Welcome to INDRA Reporter.\nThis bot helps report natural events happening around you! 🌧️ ⛈️ ⚡""")
+    bot.send_message(message.chat.id, """To report a disaster near you, type /report to start the process""")
 
 @bot.message_handler(commands=['report'])
 def send_message(message):

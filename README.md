@@ -9,6 +9,6 @@
 
 Open your telegram and follow the following steps to report an event. 
 ## Steps to run report on Telegram
-1. Search `@Indra_ReporterBot` 
+1. Search `@INDRA_ReporterBot` 
 2. Type `/start` in the chat area to activate the bot. 
 3. Keep following the instructions. 
